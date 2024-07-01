@@ -169,7 +169,7 @@ const questions = [
         question: "What is the name of compound conditional statement blocks",
         answers: [
             { text: "Forever", correct: false},
-            { text: "If the else", correct: true},
+            { text: "If then else", correct: true},
             { text: "Repeat", correct: false},
             { text: "If then", correct: false},
         ]
